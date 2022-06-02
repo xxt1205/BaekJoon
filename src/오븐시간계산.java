@@ -39,9 +39,14 @@ public class 오븐시간계산 {
 // <모범 답안>
 //import java.util.*;
 //class Main{
-//	public static void main(String[]z){
+//	public static void main(String[] a){
 //		Scanner s=new Scanner(System.in);
-//		int n=s.nextInt(),m=s.nextInt()+s.nextInt();
-//		System.out.print((n+m/60)%24+" "+m%60);
-//	}
+//		int A=s.nextInt();
+//		int B=s.nextInt();
+//		int C=s.nextInt();
+//		A+=(B+C)/60;
+//		A%=24;
+//		B=(B+C)%60;
+//		System.out.print(A+" "+B);
+//}
 //}
