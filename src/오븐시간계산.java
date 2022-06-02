@@ -35,3 +35,13 @@ public class 오븐시간계산 {
 	}
 
 }
+
+// <모범 답안>
+//import java.util.*;
+//class Main{
+//	public static void main(String[]z){
+//		Scanner s=new Scanner(System.in);
+//		int n=s.nextInt(),m=s.nextInt()+s.nextInt();
+//		System.out.print((n+m/60)%24+" "+m%60);
+//	}
+//}
