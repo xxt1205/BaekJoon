@@ -11,7 +11,7 @@ public class 더하기사이클 {
 //			A = sc.nextInt();
 //			B = sc.nextInt();
 			I = 1;
-			System.out.println();
+			
 			String str = String.valueOf(I);
 			A = 0;
 			B = 0;
