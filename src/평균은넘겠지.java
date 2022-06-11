@@ -27,7 +27,7 @@ public class 평균은넘겠지 {
 					count++;
 				}
 			}
-			 
+			System.out.println("count = " + count);
 			System.out.printf("%.3f%%\n", (count /N)*100 );
 		}
 		sc.close();
